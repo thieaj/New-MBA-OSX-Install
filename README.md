@@ -7,20 +7,22 @@ Everyone is going to say, "You never *need* to reinstall OS X. For the most part
 ## The Problem(s)
 I am very indecisive about what I think the best software I should be using is, and how to orgaznie it and how to get there. This repo is more for me to remeber all of the steps I need to take to get to a functioning MacBook Air, but anyone can use it. 
 
-Consider this, my Pre-Flight Checklist.
+Consider this, *my* Pre-Flight Checklist.
 
-### Step 1
+### Backups
 Backup. Backup. Backup. Then backup again for good measure. In fact, stop reading and go back up now. If you cant say immediatly when your last backup was, it has been to long. 
 
 In fact, I'm going to backup now, before I do anything else.
 
 ---
 
-I have two-fold backuo method.
+I have two-fold backup method.
 
 1. TimeMachine
 2. [Backblaze](https://secure.backblaze.com/r/02w46x)*
 
 ^
 Get a free month of Backblaze Backups on me to try it out.
+
+
 
