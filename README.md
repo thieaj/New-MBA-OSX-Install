@@ -2,7 +2,7 @@
 
 I have a MacBook Air (Retina, 13-inch, 2018). It's lightweight, great on battery life, and runs the latest OS X version without issues, *mostly*.
 
-Everyone is going to say, "You never *need* to reinstall OS X. For the most part thats true. I didn't *need* to. However, I <wanted> to. There's really nothing better to get you on track then a fresh install, a clean slate. 
+Everyone is going to say, "You never *need* to reinstall OS X." For the most part thats true. I didn't *need* to. However, I <wanted> to. There's really nothing better to get you on track then a fresh install, a clean slate. 
 
 ## The Problem(s)
 I am very indecisive about what I think the best software I should be using is, and how to orgaznie it and how to get there. This repo is more for me to remeber all of the steps I need to take to get to a functioning MacBook Air, but anyone can use it. 
