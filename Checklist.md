@@ -1,5 +1,4 @@
 [] Backup Complete
-    [] Time Machine
-    [] Backblaze
-    
+    * Time Machine
+    * Backblaze    
 [] OS X Wiped
