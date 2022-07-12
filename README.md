@@ -1,6 +1,6 @@
 # New MBA OSX Install
 
-I have a MacBook Air (Retina, 13-inch, 2018). It's lightweight, great on battery life, and runs the latest OS X version without issues, mostly.
+I have a MacBook Air (Retina, 13-inch, 2018). It's lightweight, great on battery life, and runs the latest OS X version without issues, *mostly*.
 
 Everyone is going to say, "You never *need* to reinstall OS X. For the most part thats true. I didn't *need* to. However, I <wanted> to. There's really nothing better to get you on track then a fresh install, a clean slate. 
 
