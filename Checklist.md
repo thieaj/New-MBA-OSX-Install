@@ -1,4 +1,4 @@
-[] Backup Complete
-    * Time Machine
-    * Backblaze    
-[] OS X Wiped
+# Step 1: Backups
+[ ] Backup Complete
+
+[ ] OS X Wiped
